@@ -4,7 +4,7 @@ Twitch Community Projekt 🤝: Aufbau einer eigenen PHP API.
 Hier zeige ich eine Möglichkeit, wie man seine eigene API mit PHP umsetzen kann.
 
 ## 📋 Todos
-(Wird in den nächsten Streams umgesetzt ✅)
+*(Wird in den nächsten Streams umgesetzt ✅)*
 - 🔲 Interface für die Endpunktklassen anlegen
 - 🔲 Funktionen umlagern in eine eigene Klasse
 - 🔲 Eine eigene Exception-Klasse anlegen
